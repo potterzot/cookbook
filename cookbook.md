@@ -116,6 +116,7 @@ In a small dish, mix the flour with warm water to form a runny paste. Add this t
 ### <a name="tony-potter-beans"></a> Potter Ham and Beans
 * Pinto beans
 * Ham hock
+
 Boil beans for 10 minutes and then let sit for one hour. Discard water. Put beans and water in 3:1 ratio to beans in crock pot. Cut ham hock to 3" pieces and add. Cook approximately five hours.
 
 ## <a name="healing-healthy-foods"></a> Healing and Healthy Foods
