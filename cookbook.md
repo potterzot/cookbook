@@ -8,6 +8,7 @@
 * [Salads](#salads)
 * [Sauces, Dressings, and Pastes](#sauces-dressings-pastes)
 * [Sweet and Savory Breakfasts](#sweet-breakfasts)
+* [Vegetables](#vegetables)
 
 
 ## <a name="breads-and-flours"></a> Breads and Flours
@@ -257,5 +258,15 @@ Mix thoroughly and refridgerate and enjoy!
 * 1 1/2 c. strawberries
 
 Mix flours and dry ingredients, then add the milk and liquids.
+
+## <a name="vegetables"></a> Vegetables
+
+### <a name="roasted-brocolli"></a> Garlic and Parmesan Roasted Brocolli
+* brocolli
+* 3-4 cloves garlic, chopped
+* 1/2-1 c. parmesan
+* salt, pepper, olive oil, balsamic vinegar
+
+Toss chopped brocolli with olive oil, salt, pepper, and garlic. Roast at 425 for 8-10 minutes. Add parmesan, then sprinkle with balsamic vinegar.
 
 
