@@ -71,11 +71,11 @@ Melt chocolate and butter together. Mix eggs and flour and sugar, and then add t
 
 ### <a name="chai"></a> Chai
 * 9 c. water
-* 1 TBSP whole peppercorns
+* 2 TBSP whole peppercorns
 * 1 TBSP cardamom seeds (or 24 cardamom pods)
 * 2 TBSP whole cloves
 * 12 cinnamon sticks (3 TBSP chips)
-* 24 slices ginger
+* 120g fresh ginger (or more)
 * 6 star anise
 
 Boil water with spices, then let rest for 1 hour. Bring back to a boil and add 12 tea bags. Let steep 2 minutes, then remove and refrigerate. Serve with sugar and milk.
