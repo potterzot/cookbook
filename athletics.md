@@ -16,7 +16,7 @@ per 500ml bottle.
 Note that this is not optimal for water absorption without the sugar. 
 WHO recommends 1:8 salt:sugar ratio for optimal water absorption, but with a liter of water
 
-Additional consideration is the addition of Sodium Bicarbonate, 0.2-0.5g/kg 60-90min before workout. For 77kg, that's 23g / 
+Additional consideration is the addition of Sodium Bicarbonate, 0.2-0.5g/kg 60-90min before workout. For 77kg, that's 23g / 1 1/2 TBSP.
 
 ## Details
 
