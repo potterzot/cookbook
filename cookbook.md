@@ -70,13 +70,13 @@ Melt chocolate and butter together. Mix eggs and flour and sugar, and then add t
 ## <a name="drinks"></a> Drinks
 
 ### <a name="golden-milk"></a> Golden Milk Spice Mix
-* 4 TBSP = 48 x 1/2 tsp Ashwaganda root powder
-* 4 TBSP 1/2 tsp tumeric
-* 4 TBSP 1/2 tsp ginger
-* 2 TBSP 24 1/4 tsp cinnamon
-* 1 TBSP 1/8 tsp pepper
+* 4 TBSP ashwaganda root powder (1/2 tsp serving size)
+* 4 TBSP tumeric (1/2 tsp serving size)
+* 4 TBSP ginger
+* 2 TBSP cinnamon
+* 2 TBSP pepper
 
-Makes 15TBSP total. To add directly, use 2tsp per cup. To make concentrated milk, add 3TBSP to a can of sweetened condensed milk.
+Makes 16TBSP total. To add directly, use 2 tsp per cup. To make concentrated milk, add 3 TBSP to a can of sweetened condensed milk.
 
 
 ### <a name="chai-spices"></a> Chai Spice Mix
