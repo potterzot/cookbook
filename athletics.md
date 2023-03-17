@@ -28,3 +28,8 @@ Additional consideration is the addition of Sodium Bicarbonate, 0.2-0.5g/kg 60-9
 | Potassium Citrate	  | C6H5K3O7    |	K	          | 0.383	      | 4700mg |
 | Magnesium Glycinate	| C4H8MgN2O4  |	Mg          |	0.141	      | 420mg	 | 
 | Zinc Gluconate      | C12H22O14Zn |	Zn          |	0.143	      | 11mg   | 
+
+## References
+
+- [DIY pedialite](https://pcbisolation.com/blog/make-your-own-pedialyte/)
+- [DIY electrolytes reddit post](https://www.reddit.com/r/AdvancedRunning/comments/11pxulb/fueling_long_runs_with_koolaid_a_surprising/)
